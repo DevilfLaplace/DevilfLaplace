@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Michael Faraday
-- 👀 I’m interested in game and web devoping
+- 👀 I’m interested in game and web developing
 - 🌱 I’m currently learning C#
 - 💞️ I’m gonna set up Faraday Developing
 - 📫 How to reach me ...
