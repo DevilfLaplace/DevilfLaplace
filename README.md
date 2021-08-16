@@ -2,7 +2,7 @@
 - 👀 I’m interested in game and web developing
 - 🌱 I’m currently learning C#
 - 💞️ I’m gonna set up Faraday Developing
-- 📫 How to reach me ...
+- 📫 deviloflaplace@protonmail.com
 
 <!---
 DevilfLaplace/DevilfLaplace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
